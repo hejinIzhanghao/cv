@@ -31,4 +31,6 @@ Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
 Bundled Camera Path Video Stabilization [SIGGRAPH 2013]
 - https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization
 Online video stabilization using a novel MeshFlow motion model
+- https://github.com/kmurray/dv_stab
+Real Time Digital Video Stabilization for FPGA
 
