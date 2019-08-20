@@ -36,3 +36,13 @@ Online video stabilization using a novel MeshFlow motion model
 - https://github.com/kmurray/dv_stab
 Real Time Digital Video Stabilization for FPGA
 
+
+## image matching
+- https://github.com/hanxf/matchnet
+matchnet. a deep learning approach for patch-based local image matching, which jointly learns feature representation and matching function from data
+- https://github.com/p50305peter/matchnet_keras/blob/master/models.py
+matchnet_keras
+- https://github.com/zeeshanhaider1007/MatchNet-with-Triplet-Loss
+matchnet with triplet loss 
+- https://github.com/AaltoVision/DGC-Net
+A PyTorch implementation of "DGC-Net: Dense Geometric Correspondence Network" 
